@@ -1,10 +1,10 @@
-#🏨 Hospitality Business Analytics Dashboard
+# 🏨 Hospitality Business Analytics Dashboard
 📊 Transforming Hospitality Data into Business Insights
 
-📌 Project Overview
+# 📌 Project Overview
 This project analyzes a 134K-record dataset (May–July 2022) from the hospitality industry, focusing on occupancy trends, revenue insights, and booking behavior. Using Excel Power Query, MySQL, SQL, and Tableau, I developed an interactive dashboard to drive data-backed decision-making.
 
-📂 Data Workflow
+# 📂 Data Workflow
 ✅ Data Cleaning:
 
 Processed raw data using Excel Power Query Editor.
@@ -19,7 +19,7 @@ Queried key business metrics, including Revenue, Occupancy Rate, Bookings, and C
 ✅ Data Visualization with Tableau:
 
 Developed interactive dashboards to highlight key trends and insights.
-📊 Key Dashboards & Features
+# 📊 Key Dashboards & Features
 🔹 1. Overview Dashboard
 📌 KPIs: Total Revenue, Total Bookings, Realization %, and Total Capacity.
 📌 Visuals:
@@ -54,7 +54,7 @@ Bookings by room type (Elite, Premium, Standard)
 🔹 Data Querying: SQL
 🔹 Data Visualization: Tableau
 
-📌 Conclusion
+# 📌 Conclusion
 This project showcases my technical expertise in data analysis, database management, SQL querying, and dashboard visualization. It highlights how data storytelling can drive strategic decisions in the hospitality industry.
 
-📢 Want to discuss insights, analytics, or collaboration? Let’s connect! 🚀
+# 📢 Want to discuss insights, analytics, or collaboration? Let’s connect! 🚀
